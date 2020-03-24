@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48793205784",
+    "firebase_url": "https://testagram3-b89a5.firebaseio.com",
+    "project_id": "testagram3-b89a5",
+    "storage_bucket": "testagram3-b89a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48793205784:android:c123625d6fd14f969c576d",
+        "android_client_info": {
+          "package_name": "com.example.testagram3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48793205784-sm01fc1s4omqdoqd4b7o46uq6eb7f1qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hw8plHBCoozGEmRZIVndiO81s19lDlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48793205784-sm01fc1s4omqdoqd4b7o46uq6eb7f1qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
