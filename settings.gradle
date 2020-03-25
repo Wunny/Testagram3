@@ -1,0 +1,2 @@
+rootProject.name='Testagram3'
+include ':app'
